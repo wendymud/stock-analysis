@@ -10,12 +10,12 @@
 ### The initial code allowed for the analysis to be first displayed in a plain format.  The time displayed does not include the formatting as depicted below:
 ![AllStocks2017.PNG](./Resources/AllStocks2017.PNG)
 
-![AllStocks2018.PNG](./Resources/AllStocks2017.PNG)
+![AllStocks2018.PNG](./Resources/AllStocks2018.PNG)
 
 ### Upon adding the necessary formatting to each of the charts, the end result would display thusly:
 ![AllStocks2017Formatted.PNG](./Resources/AllStocks2017Formatted.PNG)
 
-![AllStocks2018Formatted.PNG](./Resources/AllStocks2017Formatted.PNG)
+![AllStocks2018Formatted.PNG](./Resources/AllStocks2018Formatted.PNG)
 
 ### To add, an additional button could have been added to just code the formatting as a secondary step to the "Run All Stocks Analysis" button, however, since the refactoring was required, it seemed natural to include the formatting into the refactoring so that the data could easily be obtained in one step for any user.
 
